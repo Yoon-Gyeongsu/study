@@ -1,11 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>매일 꾸준히 만들자</title>
-</head>
-<body>
-<h1>깃허브 첫사용 page 잘부탁드려요</h1>
-<p>HTML로 만들면서 HTML 공부까지 덤으로 ㅎㅎ </p>
-</body>
-</html>
+---
+layout: single
+title:  "매일 꾸준히 만들자"
+---
+
+# 첫 번째 1커밋 앞으로 열심히 하겠습니다.
+
+화이팅!!!
